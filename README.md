@@ -43,7 +43,7 @@
 </p>
 
 
-<h3 align="left">Languages usuallys:</h3>
+<h3 align="left">Most Used:</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
