@@ -48,7 +48,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-otro
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-
