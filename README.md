@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Navarro</h1>
 <h3 align="center">I am a Software Analysis and Development student deeply passionate about backend programming in Java. My focus lies in crafting robust systems and harnessing the power of SQL to optimize data management. Eager to contribute and learn in the realm of software development</h3>
 
-- 🔭 I’m currently working on [TaskManagement](https://github.com/OscarNavarrolol/TaskManagement.git)
+- 🔭 I’m currently working on <strong>Springboot proyects </strong>
 
 - 🌱 I’m currently learning **Typically, I take courses related to Java with Spring Boot, MySQL, PostgreSQL, and Flutter.**
 
