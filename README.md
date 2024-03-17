@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oscar Navarro</h1>
 <h3 align="center">I'm a Software Analysis and Development student who enjoys backend programming with Spring Boot and Java, proficient in SQL. Always learning and practicing.</h3>
-
+<p>
 - 🔭 I’m currently working on <strong><a href="https://github.com/OscarNavarrolol/RIAP-old-code-with-apis.git" target="_blank">RIAP(intelligent face-to-face attendance recognition)</a></strong>
 
 - 🌱 I’m currently learning **Typically, I take courses related to Java with Spring Boot, MySQL and Flutter.**
@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/OscarNavarrolol?tab=repositories](https://github.com/OscarNavarrolol?tab=repositories)
 
 - 📫 How to reach me **oscardnv123455@gmail.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oscar david navarro villamizar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar david navarro villamizar" height="30" width="40" /></a>
