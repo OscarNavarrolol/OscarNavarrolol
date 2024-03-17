@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Navarro</h1>
 <h3 align="center">I'm a Software Analysis and Development student who enjoys backend programming with Spring Boot and Java, proficient in SQL. Always learning and practicing.</h3>
 
-- 🔭 I’m currently working on <strong><a href="https://github.com/OscarNavarrolol/RIAP-old-code-with-apis.git">RIAP(intelligent face-to-face attendance recognition)</a></strong>
+- 🔭 I’m currently working on <strong><a href="https://github.com/OscarNavarrolol/RIAP-old-code-with-apis.git" target="_blank">RIAP(intelligent face-to-face attendance recognition)</a></strong>
 
 - 🌱 I’m currently learning **Typically, I take courses related to Java with Spring Boot, MySQL and Flutter.**
 
