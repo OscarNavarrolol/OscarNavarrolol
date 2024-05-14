@@ -50,7 +50,7 @@
 
 
 <h3 align="left">Most Used:</h3>
-
-<p style="text-align: center;">![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
-
+<div style="text-align: center;">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
