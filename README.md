@@ -50,10 +50,11 @@
 </p>
 
 <h3 align="left">Most Used:</h3>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&hide_progress=true&theme=dark) -->
 
-
-<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&hide_progress=true&theme=dark) </p><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&hide_progress=true&theme=dark" />
+<br>
 
 <a href="https://github.com/OscarNavarrolol/RIAP-old-code-with-apis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis&theme=dark" />
