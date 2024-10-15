@@ -59,5 +59,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis&theme=dark" />
 </a>
 <a href="https://github.com/OscarNavarrolol/OscarNavarrolol.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=OscarNavarrolol.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=OscarNavarrolol.github.io&theme=dark" />
 </a>
