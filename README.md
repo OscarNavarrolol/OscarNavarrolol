@@ -53,4 +53,4 @@
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarNavarrolol&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=github-readme-stats)](https://github.com/OscarNavarrolol/RIAP-old-code-with-apis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis)](https://github.com/OscarNavarrolol/RIAP-old-code-with-apis)
