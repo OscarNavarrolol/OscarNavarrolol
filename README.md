@@ -51,6 +51,6 @@
 
 <h3 align="left">Most Used:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&layout=donut-vertical)](https://github.com/OscarNavarrolol/RIAP-old-code-with-apis)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&layout=compact)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis)](https://github.com/OscarNavarrolol/RIAP-old-code-with-apis)
