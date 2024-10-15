@@ -58,7 +58,6 @@
 <a href="https://github.com/OscarNavarrolol/RIAP-old-code-with-apis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/OscarNavarrolol/OscarNavarrolol.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=OscarNavarrolol.github.io" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis&theme=dark)](https://github.com/OscarNavarrolol/RIAP-old-code-with-apis)
