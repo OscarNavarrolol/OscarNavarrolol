@@ -53,7 +53,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&layout=compact) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&hide_progress=true&theme=dark) <br>
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNavarrolol&hide_progress=true&theme=dark) </p><br>
 
 <a href="https://github.com/OscarNavarrolol/RIAP-old-code-with-apis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=RIAP-old-code-with-apis&theme=dark" />
@@ -62,8 +62,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=OscarNavarrolol.github.io&theme=dark" />
 </a>
 <br>
-<a href="https://github.com/OscarNavarrolol/PruebasUnitarias-Springboot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=PruebasUnitarias-Springboot&theme=dark" />
+<a href="https://github.com/OscarNavarrolol/newspaper-practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=newspaper-practice&theme=dark" />
 </a>
 <a href="https://github.com/OscarNavarrolol/Public-camello">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=Public-camello&theme=dark" />
