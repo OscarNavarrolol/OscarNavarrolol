@@ -50,5 +50,5 @@
 
 
 <h3 align="left">Most Used:</h3>
-(https://github-readme-stats.vercel.app/api?username=OscarNavarrolol&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
