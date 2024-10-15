@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **oscardnv123455@gmail.com**
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oscar david navarro villamizar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar david navarro villamizar" height="30" width="40" /></a>
@@ -48,7 +49,6 @@
 </a>
 </p>
 
-
 <h3 align="left">Most Used:</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarNavarrolol&show_icons=true&theme=transparent)
