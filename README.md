@@ -61,3 +61,10 @@
 <a href="https://github.com/OscarNavarrolol/OscarNavarrolol.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=OscarNavarrolol.github.io&theme=dark" />
 </a>
+<br>
+<a href="https://github.com/OscarNavarrolol/PruebasUnitarias-Springboot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=PruebasUnitarias-Springboot&theme=dark" />
+</a>
+<a href="https://github.com/OscarNavarrolol/Public-camello">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarNavarrolol&repo=Public-camello&theme=dark" />
+</a>
